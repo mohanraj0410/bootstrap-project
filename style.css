@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading_underline{
+    text-decoration: underline;
+}
+.about{
+    text-decoration: underline;
+}
+.about_para{
+    line-height: 30px;
+    text-align: justify;
+}
+.profile_heading{
+    text-align: center;
+    font-weight: 700;
+    text-shadow: 0 0 15px black;
+}
+.profile_about{
+    text-decoration:underline;
+}
+.profile_text{
+    line-height: 30px;
+    text-align: justify;
+    text-indent: 30px;
+}
+.acc_body{
+    text-align: justify;
+}
+.nav-link{
+    border-bottom: 2px solid green;
+    margin-right: 10px;
+    border: none;
+}
+.nav-link:hover{
+    border-bottom: 2px solid green;
+    margin-right: 10px;   
+}
